@@ -1,7 +1,7 @@
 # About Me
 
 ## 👋 Introduction
-Hello! I'm a passionate web developer with a strong focus on building scalable and user-friendly web applications. My expertise lies in the **REACT**  and I love creating impactful digital solutions.
+Hi! I’m a web developer who loves creating responsive and scalable web apps. I specialize in React and enjoy turning ideas into smooth digital experiences.
 
 ## 🚀 Skills & Technologies
 - **Frontend:** React, Tailwind CSS
