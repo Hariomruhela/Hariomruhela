@@ -1,20 +1,19 @@
 # About Me
 
 ## 👋 Introduction
-Hello! I'm a passionate full-stack developer with a strong focus on building scalable and user-friendly web applications. My expertise lies in the **MERN stack** (MongoDB, Express.js, React, Node.js), and I love creating impactful digital solutions.
+Hello! I'm a passionate web developer with a strong focus on building scalable and user-friendly web applications. My expertise lies in the **REACT**  and I love creating impactful digital solutions.
 
 ## 🚀 Skills & Technologies
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Backend:** Python, Flask
+- **Database:** MongoDB,MySql
 - **Authentication:** JWT, bcrypt
 - **Payments:** Stripe, Razorpay
 
 ## 📌 Projects
-- **StudyNotion:** An ed-tech platform for creating, consuming, and rating educational content.
-- **Blog Application:** A full-featured blog system built with React and Node.js.
-- **E-commerce Website:** A dynamic online store with user authentication and order management.
-
+- **GitHub Finder:** GitHub Finder is a React-based web application that allows users to search for GitHub profiles and view detailed information such as repositories, followers, and bio.
+- **ParkEasy:** ParkEasy is a smart parking management web application designed to help users find, book, and manage parking spaces easily..
+- **Askify:** Askify for querying CSV or Excel files using natural language.
 ## 🔗 Connect with Me
 [GitHub](https://github.com/Hariomruhela) | [LinkedIn](https://linkedin.com/in/Hariomruhela) |
 
