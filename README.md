@@ -7,7 +7,6 @@ Hi! I’m a web developer who loves creating responsive and scalable web apps. I
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Python, Flask
 - **Database:** MongoDB,MySql
-- **Authentication:** JWT, bcrypt
 - **Payments:** Stripe, Razorpay
 
 ## 📌 Projects
